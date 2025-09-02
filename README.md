@@ -12,14 +12,6 @@ I am an MCA student passionate about **Java, DBMS, and Full-Stack Development**.
 ---
 
 ## 🛠️ Skills
-- **Programming:** Java, JDBC## 📂 Projects
-- **Student Management System** – Java + Oracle DB  
-- **Library Management System** – SQL & PL/SQL based project  
-- **Book Entry CRUD App** – JSP + Servlets + Oracle DB  
-
----
-
-## 🛠️ Skills
 - **Programming:** Java, JDBC, Servlets, JSP  
 - **Database:** Oracle SQL, PL/SQL  
 - **Web:** HTML, CSS, JavaScript, Angular  
