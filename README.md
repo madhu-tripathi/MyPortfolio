@@ -27,7 +27,6 @@ I am an MCA student passionate about **Java, DBMS, and Full-Stack Development**.
 
 ---
 
-
 ## 📫 Contact
 - **Email:** tripathimadhu9@gmail.com   
 - **GitHub:** https://github.com/madhu-tripathi  
